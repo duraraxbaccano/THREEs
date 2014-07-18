@@ -1,0 +1,8 @@
+{
+	"name": "three.js",
+	"description": "A very small package for the core three.js functionality.",
+	"homepage": "https://github.com/duraraxbaccano",
+	"author": "nozpheratu",
+	"version": "0.0.2",
+	"git": "https://github.com/duraraxbaccano/THREEs.git"
+}
